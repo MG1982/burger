@@ -1,9 +1,10 @@
 INSERT INTO burgers
-    (burger_name)
+    (burger_name, devoured)
 VALUES
-    ("Chicken Burger"),
-    ("Bacon & Egg Burger"),
-    ("Cheese Burger");
-    
-    SELECT * FROM burgers;
+    ("Chicken Burger", true),
+    ("Bacon & Egg Burger", false),
+    ("Cheese Burger", false);
+
+SELECT *
+FROM burgers;
     

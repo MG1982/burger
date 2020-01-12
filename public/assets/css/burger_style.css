@@ -1,0 +1,80 @@
+body {
+  background-image: url("../images/sol-ingrao-pw19GpDRZic-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.ft {
+  color: rgb(66, 66, 66);
+}
+
+.ft:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: rgb(255, 255, 255);
+}
+
+.display-4 {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 100px;
+  text-shadow: 4px 4px 4px #aaa;
+  color: rgb(255, 102, 0);
+}
+
+h4 {
+  text-shadow: 2px 2px #353535;
+}
+
+.jumbotron {
+  margin-top: 15px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: rgb(255, 255, 255);
+}
+
+.hyper:hover {
+  color: rgb(255, 102, 0);
+}
+
+@media (max-width: 1000px) {
+  .display-4 {
+    font-size: 70px;
+    text-shadow: 3.5px 3.5px 3.5px #aaa;
+  }
+}
+
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #aaa;
+  }
+}
+
+@media (max-width: 490px) {
+  .display-4 {
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #aaa;
+  }
+  .lead {
+    font-size: 15px;
+  }
+  .footer {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 410px) {
+  .footer {
+    font-size: 12.5px;
+  }
+}
+
+@media (max-width: 350px) {
+  .footer {
+    font-size: 10px;
+  }
+}
