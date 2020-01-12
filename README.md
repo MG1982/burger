@@ -4,7 +4,7 @@
 
 ### Hosted on Heroku: <a href="https://young-garden-57944.herokuapp.com/">Eat-Da-Burger</a>
 
-![Burger.jpg](./public/assets/images/burger.jpg "Eat-Da-Burgerr")
+![Burger.jpg](./public/assets/images/burger.jpg "Eat-Da-Burger")
 
 **Built With ;**
 
