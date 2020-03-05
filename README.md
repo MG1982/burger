@@ -2,7 +2,7 @@
 
 ## Create a burger, then devour it.
 
-### Hosted on Heroku: <a href="https://young-garden-57944.herokuapp.com/">Eat-Da-Burger</a>
+### Hosted on Heroku: <a href="https://b-u-r-g-e-r.herokuapp.com/">Eat-Da-Burger</a>
 
 ![Burger.jpg](./public/assets/images/burger.jpg "Eat-Da-Burger")
 
